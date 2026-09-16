@@ -1,0 +1,9 @@
+{
+  "name": "CryptoArb iPhone Test",
+  "short_name": "CryptoArb",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#0b0d12",
+  "icons": []
+}
